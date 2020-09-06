@@ -1,0 +1,11 @@
+<%@include file="CommonHeader.jsp" %>
+
+<h3 align="center">User Home</h3>
+
+
+<li><a href="<c:url value="/productdisplay"/>"><span	class="glyphicon glyphicon-log-in"></span> Products Catalog</a></li>
+<li><a href="<c:url value="/product"/>"><span	class="glyphicon glyphicon-log-in"></span> Add a Product</a></li>
+<li><a href="<c:url value="/category"/>"><span	class="glyphicon glyphicon-log-in"></span> Add a Category</a></li>
+
+</body>
+</html>

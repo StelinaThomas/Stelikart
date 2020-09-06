@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Sep 06 16:05:25 IST 2020
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Celestine\\.m2\\repository\\org\\springframework\\spring-web\\5.0.9.RELEASE\\spring-web-5.0.9.RELEASE.jar=WEB-INF/lib/spring-web-5.0.9.RELEASE.jar
+org.eclipse.jst.j2ee.server\:GadgetBackend=WEB-INF/lib/GadgetBackend-0.0.1-SNAPSHOT.jar

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Celestine\Desktop\BOM-MAA-TCR\Project-EComm\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\19863602.index
+\GadgetFrontend\src\main\java
+C:\Users\Celestine\Desktop\BOM-MAA-TCR\Project-EComm\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4262400705.index
+\GadgetFrontend\src\main\java

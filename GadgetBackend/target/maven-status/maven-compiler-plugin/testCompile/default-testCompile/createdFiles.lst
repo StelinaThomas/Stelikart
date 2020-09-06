@@ -1,0 +1,6 @@
+com\ecomm\test\CategoryDAOTest.class
+com\ecomm\test\ProductDAOTest.class
+com\ecomm\test\DBConfigTest.class
+com\ecomm\test\OrderDAOTestCase.class
+com\ecomm\test\CartDAOTest.class
+com\ecomm\test\UserDAOTest.class
